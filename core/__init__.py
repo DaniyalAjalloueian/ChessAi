@@ -1,0 +1,1 @@
+"""Chess domain logic (game state, FEN/PGN handling, evaluation metrics)."""

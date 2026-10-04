@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.manifest
+
+# Local engine binaries (do NOT commit Stockfish)
+engine/bin/*.exe
+engine/bin/*.nnue
+stockfish*.exe
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+desktop.ini
+
+# Local settings
+*.log

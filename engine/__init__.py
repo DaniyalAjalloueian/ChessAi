@@ -1,0 +1,1 @@
+"""Stockfish integration: process control, engine management and analysis."""
